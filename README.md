@@ -2,4 +2,4 @@
 
 This is my introduction to github. 
 
-I awoke with a peculiar fire to become a coder near the end of 2018, and I am achieving that end through many football games spent jamming and typing. 
+I am an aspiring developer who is loving every second of the learning and creating process.
